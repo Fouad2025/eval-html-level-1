@@ -1,0 +1,91 @@
+img {
+    height: 150px;
+    border: 5px solid white;
+    margin-right: 40px;
+    border-radius: 50%;
+}
+
+.green {
+    display: flex;
+
+    background: linear-gradient(#4CAF50, #8BC34A);
+    gap: 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+    justify-content: space-between;
+    align-items: center;
+    height: 300px;
+   
+  
+
+
+}
+
+ul {
+  list-style-type: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  line-height: 2;
+  font-size: 20px;
+}
+
+.nom {
+    font-size: 2.5rem;
+   font-weight: 900;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   line-height: 1.2;
+
+    
+}
+
+.dev {
+    color: white;
+    font-size: 1.2rem;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+}
+
+.texte {
+    background-color: white;
+  
+    margin-top: 50px;
+    border-radius: 10px;
+    height: 150px;
+padding-left: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+body {
+    background-color: #f0f2f5;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    
+   
+}
+
+p {
+    color: #333333;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 2;
+}
+
+li {
+   font-size: 20px;
+   
+}
+
+main {
+    width: 780px;
+}
+
+.slogan {
+    font-style: italic;
+}
