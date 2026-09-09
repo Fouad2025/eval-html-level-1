@@ -24,11 +24,14 @@ main {
 
 body {
     width: 920px;
-
+border: 5px solid#0c4e94 ;
     text-align: center;
     justify-content: center;
     align-items: center;
     background-image: url(/img/wood.jpg);
+     border-radius: 10px;
+     margin: auto;
+    margin-top: 10px;
 }
 
 p {
@@ -58,14 +61,7 @@ h1 {
     font-weight: 900;
 }
 
-body {
-    border: 5px solid#0c4e94 ;
-    width: 920px;
-    border-radius: 10px;
-    margin: auto;
-    margin-top: 10px;
-    
-}
+
 
 .nageur {
     font-size: 40px;
